@@ -1,4 +1,5 @@
-# Page-Load-Times
+# Page-Load-Times 
+https://chrome.google.com/webstore/detail/pageload-times/lglmeekjblljbeemilnpakfhgaodnpik
 Chrome Extension which displays the fully loaded time.
 
 
